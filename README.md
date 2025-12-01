@@ -1,7 +1,5 @@
 # README – Ponderada de Navegação Autônoma
 
-## Visão Geral
-
 Esta ponderada consiste em desenvolver um sistema de navegação autônoma para um robô em um labirinto, utilizando **ROS 2**, algoritmos de grafos e o simulador fornecido pelo professor. O projeto é dividido em duas partes:
 
 ### **Parte 1 – Navegação com Mapa**
