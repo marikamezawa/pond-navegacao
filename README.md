@@ -1,4 +1,4 @@
-# README – Ponderada de Navegação Autônoma
+# Ponderada de Navegação Autônoma
 
 Esta ponderada consiste em desenvolver um sistema de navegação autônoma para um robô em um labirinto, utilizando **ROS 2**, algoritmos de grafos e o simulador fornecido pelo professor. O projeto é dividido em duas partes:
 
@@ -28,7 +28,6 @@ O robô deverá navegar sem mapa pronto, explorando o labirinto e construindo se
 
 * `map_loader` – Faz a requisição do mapa ao serviço `/get_map`.
 * `pathfinder` – Implementa o algoritmo BFS e produz a lista de coordenadas do menor caminho.
-* `main_node` – Carrega o mapa, encontra o caminho e controla o robô até o alvo.
 
 
 ## Estrutura do Projeto
